@@ -1,4 +1,6 @@
 .venv
 .csv
 .pynb_checkpoints
-/data
+data/
+
+
